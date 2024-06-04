@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @HenryYang03
+- 👋 Hi, I’m Mohan Yang, an undergraduate at UCI
 - 👀 I’m interested in Data Science, Statistics, Machine Learning
-- 🌱 I’m currently learning unsupervised machine learning
-- 💞️ I’m looking to collaborate on any data science projects
 - 📫 How to reach me (yanghenry0321@gmail.com)
 
 <!---
